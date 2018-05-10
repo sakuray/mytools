@@ -1,0 +1,15 @@
+<html>
+	<body>
+		<div id="content">你好不好啊</div>
+	</body>
+	<script>
+		function exeFun(json){
+			var name=json;
+			document.getElementById("content").innerHTML=name;
+		}
+		function ready() {
+		    document.getElementById("content").innerHTML=java.read();
+		    alert("variables:ready");
+		}
+	</script>
+</html>

@@ -1,0 +1,2 @@
+http://archive.eclipse.org/eclipse/downloads/
+http://archive.eclipse.org/eclipse/downloads/drops/R-3.8.2-201301310800/
